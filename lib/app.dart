@@ -1,4 +1,4 @@
-import 'package:e_commerce_task/presentation/pages/home_page.dart';
+import 'package:e_commerce_task/presentation/pages/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class Ecommerce extends StatelessWidget {
